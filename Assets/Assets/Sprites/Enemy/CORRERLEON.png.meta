@@ -1,0 +1,442 @@
+fileFormatVersion: 2
+guid: 769be785487303746a528ea3e1eae07c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6477753757891008228
+    second: CORRERLEON_0
+  - first:
+      213: -2476780845922496551
+    second: CORRERLEON_1
+  - first:
+      213: -7905261057659642661
+    second: CORRERLEON_2
+  - first:
+      213: -4780507447055307531
+    second: CORRERLEON_3
+  - first:
+      213: 1371524328573328237
+    second: CORRERLEON_4
+  - first:
+      213: -989954549432818313
+    second: CORRERLEON_5
+  - first:
+      213: -8691718886327276308
+    second: CORRERLEON_6
+  - first:
+      213: 8453523271314041903
+    second: CORRERLEON_7
+  - first:
+      213: -2221263983858772144
+    second: CORRERLEON_8
+  - first:
+      213: -1717664636046101677
+    second: CORRERLEON_9
+  - first:
+      213: -4420211067459663526
+    second: CORRERLEON_10
+  - first:
+      213: -6140075149916782366
+    second: CORRERLEON_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 256
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CORRERLEON_0
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 153
+        width: 705
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c19647e17456a16a0800000000000000
+      internalID: -6477753757891008228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_1
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 159
+        width: 608
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df4c4471f4b0add0800000000000000
+      internalID: -2476780845922496551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_2
+      rect:
+        serializedVersion: 2
+        x: 2157
+        y: 128
+        width: 544
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdcd771b3feda4290800000000000000
+      internalID: -7905261057659642661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_3
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 97
+        width: 485
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fca82c1ec938adb0800000000000000
+      internalID: -4780507447055307531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_4
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 110
+        width: 479
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b5b653c12a80310800000000000000
+      internalID: 1371524328573328237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_5
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 159
+        width: 612
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77566411599f242f0800000000000000
+      internalID: -989954549432818313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_6
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 153
+        width: 709
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceca8ec39bfc06780800000000000000
+      internalID: -8691718886327276308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_7
+      rect:
+        serializedVersion: 2
+        x: 5943
+        y: 159
+        width: 612
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ceb2760a2f05570800000000000000
+      internalID: 8453523271314041903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_8
+      rect:
+        serializedVersion: 2
+        x: 6711
+        y: 110
+        width: 479
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0579ab9ec2c7c21e0800000000000000
+      internalID: -2221263983858772144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_9
+      rect:
+        serializedVersion: 2
+        x: 7399
+        y: 97
+        width: 485
+        height: 766
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353b8353d11a928e0800000000000000
+      internalID: -1717664636046101677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_10
+      rect:
+        serializedVersion: 2
+        x: 8239
+        y: 128
+        width: 544
+        height: 735
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5901d3147148a2c0800000000000000
+      internalID: -4420211067459663526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CORRERLEON_11
+      rect:
+        serializedVersion: 2
+        x: 9025
+        y: 159
+        width: 608
+        height: 704
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0c103ce221acaa0800000000000000
+      internalID: -6140075149916782366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CORRERLEON_0: -6477753757891008228
+      CORRERLEON_1: -2476780845922496551
+      CORRERLEON_10: -4420211067459663526
+      CORRERLEON_11: -6140075149916782366
+      CORRERLEON_2: -7905261057659642661
+      CORRERLEON_3: -4780507447055307531
+      CORRERLEON_4: 1371524328573328237
+      CORRERLEON_5: -989954549432818313
+      CORRERLEON_6: -8691718886327276308
+      CORRERLEON_7: 8453523271314041903
+      CORRERLEON_8: -2221263983858772144
+      CORRERLEON_9: -1717664636046101677
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

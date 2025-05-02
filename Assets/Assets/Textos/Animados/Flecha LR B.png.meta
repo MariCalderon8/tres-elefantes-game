@@ -1,0 +1,598 @@
+fileFormatVersion: 2
+guid: ca05a80ce658eed4696eb98bf3cd3cce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4376257995758686920
+    second: Flecha LR B_0
+  - first:
+      213: 8927340021508953837
+    second: Flecha LR B_1
+  - first:
+      213: 9163111532010113310
+    second: Flecha LR B_2
+  - first:
+      213: -109976351086122892
+    second: Flecha LR B_3
+  - first:
+      213: -6461951945527901535
+    second: Flecha LR B_4
+  - first:
+      213: -529762452437950387
+    second: Flecha LR B_5
+  - first:
+      213: -7180780464271337660
+    second: Flecha LR B_6
+  - first:
+      213: 1662831537033676734
+    second: Flecha LR B_7
+  - first:
+      213: -51356955024653111
+    second: Flecha LR B_8
+  - first:
+      213: -1761217679274673361
+    second: Flecha LR B_9
+  - first:
+      213: -3884403746115593566
+    second: Flecha LR B_10
+  - first:
+      213: -2408423019306326470
+    second: Flecha LR B_11
+  - first:
+      213: 6609815685602325681
+    second: Flecha LR B_12
+  - first:
+      213: -8819270086983536599
+    second: Flecha LR B_13
+  - first:
+      213: -5030860790511022746
+    second: Flecha LR B_14
+  - first:
+      213: -1093429392078539381
+    second: Flecha LR B_15
+  - first:
+      213: 4449510907560108689
+    second: Flecha LR B_16
+  - first:
+      213: -9206825098416458379
+    second: Flecha LR B_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Flecha LR B_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 30
+        width: 33
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2d8a2f5779bbc30800000000000000
+      internalID: 4376257995758686920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_1
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 33
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65b23537844eb70800000000000000
+      internalID: 8927340021508953837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 34
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e198fbed369e92f70800000000000000
+      internalID: 9163111532010113310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_3
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 15
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47861d36719497ef0800000000000000
+      internalID: -109976351086122892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_4
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 22
+        width: 29
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a24a2341f88256a0800000000000000
+      internalID: -6461951945527901535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 15
+        width: 84
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40a8173bd7e5a8f0800000000000000
+      internalID: -529762452437950387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_6
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 21
+        width: 25
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447da01963eb85c90800000000000000
+      internalID: -7180780464271337660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_7
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 34
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7853e0970931710800000000000000
+      internalID: 1662831537033676734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_8
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 35
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c4820b1f1b894ff0800000000000000
+      internalID: -51356955024653111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_9
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 34
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bf1be1ad5ee87e0800000000000000
+      internalID: -1761217679274673361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 35
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa55949f53d71ac0800000000000000
+      internalID: -3884403746115593566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_11
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 33
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a366f593600939ed0800000000000000
+      internalID: -2408423019306326470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 36
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4b1238858cabb50800000000000000
+      internalID: 6609815685602325681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_13
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 34
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9203e171598ab9580800000000000000
+      internalID: -8819270086983536599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_14
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 35
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d462304cace2ab0800000000000000
+      internalID: -5030860790511022746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_15
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 30
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85ff2ad2cb53d0f0800000000000000
+      internalID: -1093429392078539381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_16
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 33
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192a85d8896dfbd30800000000000000
+      internalID: 4449510907560108689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Flecha LR B_17
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 36
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5757cb35a59ca3080800000000000000
+      internalID: -9206825098416458379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Flecha LR B_0: 4376257995758686920
+      Flecha LR B_1: 8927340021508953837
+      Flecha LR B_10: -3884403746115593566
+      Flecha LR B_11: -2408423019306326470
+      Flecha LR B_12: 6609815685602325681
+      Flecha LR B_13: -8819270086983536599
+      Flecha LR B_14: -5030860790511022746
+      Flecha LR B_15: -1093429392078539381
+      Flecha LR B_16: 4449510907560108689
+      Flecha LR B_17: -9206825098416458379
+      Flecha LR B_2: 9163111532010113310
+      Flecha LR B_3: -109976351086122892
+      Flecha LR B_4: -6461951945527901535
+      Flecha LR B_5: -529762452437950387
+      Flecha LR B_6: -7180780464271337660
+      Flecha LR B_7: 1662831537033676734
+      Flecha LR B_8: -51356955024653111
+      Flecha LR B_9: -1761217679274673361
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

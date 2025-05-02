@@ -1,0 +1,416 @@
+fileFormatVersion: 2
+guid: 693c0b5c920e2554c9481e1585a90121
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2549017246786690340
+    second: tres-elefantes-LOGO_0
+  - first:
+      213: -617004982509939016
+    second: tres-elefantes-LOGO_1
+  - first:
+      213: -243422262935518911
+    second: tres-elefantes-LOGO_2
+  - first:
+      213: -8138510785393863170
+    second: tres-elefantes-LOGO_3
+  - first:
+      213: -8029382904125187764
+    second: tres-elefantes-LOGO_4
+  - first:
+      213: -4231279919458966459
+    second: tres-elefantes-LOGO_5
+  - first:
+      213: 3992497197751162703
+    second: tres-elefantes-LOGO_6
+  - first:
+      213: 2999196473142157493
+    second: tres-elefantes-LOGO_7
+  - first:
+      213: -3196879275648618021
+    second: tres-elefantes-LOGO_8
+  - first:
+      213: -2990832672343422821
+    second: tres-elefantes-LOGO_9
+  - first:
+      213: -4648244974542425194
+    second: tres-elefantes-LOGO_10
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_0
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 1305
+        width: 2243
+        height: 1865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd26feeb15210acd0800000000000000
+      internalID: -2549017246786690340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_1
+      rect:
+        serializedVersion: 2
+        x: 2949
+        y: 2247
+        width: 1456
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b659d8cc35ff67f0800000000000000
+      internalID: -617004982509939016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_2
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 2270
+        width: 622
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1418e47ddb03f9cf0800000000000000
+      internalID: -243422262935518911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_3
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 1284
+        width: 652
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5d9e37f833e0f80800000000000000
+      internalID: -8138510785393863170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_4
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 1311
+        width: 360
+        height: 860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49160a4ac6e19090800000000000000
+      internalID: -8029382904125187764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_5
+      rect:
+        serializedVersion: 2
+        x: 3029
+        y: 1284
+        width: 652
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544a76fd4597745c0800000000000000
+      internalID: -4231279919458966459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_6
+      rect:
+        serializedVersion: 2
+        x: 3653
+        y: 1324
+        width: 599
+        height: 835
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4753b65c03386730800000000000000
+      internalID: 3992497197751162703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_7
+      rect:
+        serializedVersion: 2
+        x: 4229
+        y: 1300
+        width: 565
+        height: 908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b02e394d494f9920800000000000000
+      internalID: 2999196473142157493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_8
+      rect:
+        serializedVersion: 2
+        x: 4810
+        y: 1269
+        width: 568
+        height: 849
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1f7219c3762a3d0800000000000000
+      internalID: -3196879275648618021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_9
+      rect:
+        serializedVersion: 2
+        x: 5375
+        y: 1284
+        width: 1330
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b988656d78d6e76d0800000000000000
+      internalID: -2990832672343422821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tres-elefantes-LOGO_10
+      rect:
+        serializedVersion: 2
+        x: 6662
+        y: 1299
+        width: 560
+        height: 837
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6937767b2dd1e7fb0800000000000000
+      internalID: -4648244974542425194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      tres-elefantes-LOGO_0: -2549017246786690340
+      tres-elefantes-LOGO_1: -617004982509939016
+      tres-elefantes-LOGO_10: -4648244974542425194
+      tres-elefantes-LOGO_2: -243422262935518911
+      tres-elefantes-LOGO_3: -8138510785393863170
+      tres-elefantes-LOGO_4: -8029382904125187764
+      tres-elefantes-LOGO_5: -4231279919458966459
+      tres-elefantes-LOGO_6: 3992497197751162703
+      tres-elefantes-LOGO_7: 2999196473142157493
+      tres-elefantes-LOGO_8: -3196879275648618021
+      tres-elefantes-LOGO_9: -2990832672343422821
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

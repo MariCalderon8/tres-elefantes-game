@@ -1,0 +1,858 @@
+fileFormatVersion: 2
+guid: ca68f8f1b68d15747abe7e28ea4a9346
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5624180259456911083
+    second: stella_0
+  - first:
+      213: -4402236232148219674
+    second: stella_1
+  - first:
+      213: 3256561093069576001
+    second: stella_2
+  - first:
+      213: -7436435508220297980
+    second: stella_3
+  - first:
+      213: 2876290695428800282
+    second: stella_4
+  - first:
+      213: -7367486954576684424
+    second: stella_5
+  - first:
+      213: 7178249938147185683
+    second: stella_6
+  - first:
+      213: -6378097903681234931
+    second: stella_7
+  - first:
+      213: -6699125408777967569
+    second: stella_8
+  - first:
+      213: 4380314366508708693
+    second: stella_9
+  - first:
+      213: -7917807097672787375
+    second: stella_10
+  - first:
+      213: -3779244302583633718
+    second: stella_11
+  - first:
+      213: -7826397455127646558
+    second: stella_12
+  - first:
+      213: -4987106807466439048
+    second: stella_13
+  - first:
+      213: 1893169097745403373
+    second: stella_14
+  - first:
+      213: -948923647298993243
+    second: stella_15
+  - first:
+      213: 3870024682364215846
+    second: stella_16
+  - first:
+      213: 160622743744204247
+    second: stella_17
+  - first:
+      213: -6117070012181289262
+    second: stella_18
+  - first:
+      213: 8563234584523681342
+    second: stella_19
+  - first:
+      213: -6008431341890507961
+    second: stella_20
+  - first:
+      213: 5491896119667210710
+    second: stella_21
+  - first:
+      213: 3031007483173227342
+    second: stella_22
+  - first:
+      213: 5850023241745957960
+    second: stella_23
+  - first:
+      213: -5637462983544958225
+    second: stella_24
+  - first:
+      213: -658305888943292319
+    second: stella_25
+  - first:
+      213: -1714063339347606377
+    second: stella_26
+  - first:
+      213: 2875187490392381085
+    second: stella_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stella_0
+      rect:
+        serializedVersion: 2
+        x: 1104
+        y: 1959
+        width: 224
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be681b5d52a1d0e40800000000000000
+      internalID: 5624180259456911083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_1
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 2092
+        width: 67
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8837d887d18e2c0800000000000000
+      internalID: -4402236232148219674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_2
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 2065
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14715c56f01a13d20800000000000000
+      internalID: 3256561093069576001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_3
+      rect:
+        serializedVersion: 2
+        x: 1303
+        y: 2056
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d7d612e497cc890800000000000000
+      internalID: -7436435508220297980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_4
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 2055
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1f7bc3f523aae720800000000000000
+      internalID: 2876290695428800282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_5
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 2052
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ad12146ad61c990800000000000000
+      internalID: -7367486954576684424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_6
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 2042
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3149b3869444e9360800000000000000
+      internalID: 7178249938147185683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_7
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 2015
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d089a6ccfb17c77a0800000000000000
+      internalID: -6378097903681234931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_8
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 2025
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28eef72fece703a0800000000000000
+      internalID: -6699125408777967569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_9
+      rect:
+        serializedVersion: 2
+        x: 1319
+        y: 1996
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553ba4c55b00acc30800000000000000
+      internalID: 4380314366508708693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_10
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1945
+        width: 64
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15a952f156c4e1290800000000000000
+      internalID: -7917807097672787375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_11
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 2006
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac86511845d6d8bc0800000000000000
+      internalID: -3779244302583633718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_12
+      rect:
+        serializedVersion: 2
+        x: 1314
+        y: 1989
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae68180bfc036390800000000000000
+      internalID: -7826397455127646558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_13
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 1922
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec70c08cc3acab0800000000000000
+      internalID: -4987106807466439048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_14
+      rect:
+        serializedVersion: 2
+        x: 1196
+        y: 1958
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ded8cd29343e54a10800000000000000
+      internalID: 1893169097745403373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_15
+      rect:
+        serializedVersion: 2
+        x: 1223
+        y: 1957
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a386cb68feb4d2f0800000000000000
+      internalID: -948923647298993243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_16
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1947
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6222050c1f615b530800000000000000
+      internalID: 3870024682364215846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_17
+      rect:
+        serializedVersion: 2
+        x: 1244
+        y: 1954
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddc8bfc885aa3200800000000000000
+      internalID: 160622743744204247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_18
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1952
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d66db9cb3dcb1ba0800000000000000
+      internalID: -6117070012181289262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_19
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 1953
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3eafd21c78b6d670800000000000000
+      internalID: 8563234584523681342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_20
+      rect:
+        serializedVersion: 2
+        x: 1286
+        y: 1958
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74bea415783cd9ca0800000000000000
+      internalID: -6008431341890507961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_21
+      rect:
+        serializedVersion: 2
+        x: 1161
+        y: 1940
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d93c1c6c62273c40800000000000000
+      internalID: 5491896119667210710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_22
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 1942
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b471a3f3d401a20800000000000000
+      internalID: 3031007483173227342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_23
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1938
+        width: 33
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8440c04c4257f2150800000000000000
+      internalID: 5850023241745957960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_24
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1947
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe29367f845b3c1b0800000000000000
+      internalID: -5637462983544958225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_25
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 1940
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 160ccf7284a3dd6f0800000000000000
+      internalID: -658305888943292319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_26
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1947
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7948aaf697c6638e0800000000000000
+      internalID: -1714063339347606377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stella_27
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1939
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d961c730ac7b6e720800000000000000
+      internalID: 2875187490392381085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      stella_0: 5624180259456911083
+      stella_1: -4402236232148219674
+      stella_10: -7917807097672787375
+      stella_11: -3779244302583633718
+      stella_12: -7826397455127646558
+      stella_13: -4987106807466439048
+      stella_14: 1893169097745403373
+      stella_15: -948923647298993243
+      stella_16: 3870024682364215846
+      stella_17: 160622743744204247
+      stella_18: -6117070012181289262
+      stella_19: 8563234584523681342
+      stella_2: 3256561093069576001
+      stella_20: -6008431341890507961
+      stella_21: 5491896119667210710
+      stella_22: 3031007483173227342
+      stella_23: 5850023241745957960
+      stella_24: -5637462983544958225
+      stella_25: -658305888943292319
+      stella_26: -1714063339347606377
+      stella_27: 2875187490392381085
+      stella_3: -7436435508220297980
+      stella_4: 2876290695428800282
+      stella_5: -7367486954576684424
+      stella_6: 7178249938147185683
+      stella_7: -6378097903681234931
+      stella_8: -6699125408777967569
+      stella_9: 4380314366508708693
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
