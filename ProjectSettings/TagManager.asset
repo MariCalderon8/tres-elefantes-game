@@ -8,11 +8,12 @@ TagManager:
   - Suelo
   - Coin
   - Ground
+  - Jugador
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
   - 
