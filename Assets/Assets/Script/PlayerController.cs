@@ -3,18 +3,33 @@ using UnityEngine;
 public class PlayerController : MonoBehaviour
 {
 
-    public float moveSpeed = 5f;
-    public float runSpeed = 8f;
-    public float jumpForce = 10f;
+    public float moveSpeed;
+    public float runSpeed ;
+    public float jumpForce;
     public int maxHealth = 3; // Vida del player
     public int attackDamage = 1; // Daño al enemigo por ataque
 
+    // Detección de suelo
+    public Transform groundCheck;
+    public float checkRadius = 0.2f;
+    public LayerMask groundLayer;
+
     private Rigidbody2D rb;
     private Animator animator;
-    private bool isJumping = false;
     private int currentHealth;
+    
+    private bool wasGrounded;
+    private bool isGrounded;
+    private bool isJumping = false;
     private bool isAttacking = false;
     private bool isDead = false;
+
+    // Parámetros del Animator
+    private readonly string paramMovement = "Move";
+    private readonly string paramSpeeding = "isRunning";
+    private readonly string paramJump = "isJumping";
+    private readonly string paramAttack = "isAttacking";
+    private readonly string paramFalling = "isFalling";
 
 //llamar en esta función los dos componentes del player rb y anim
     void Start()
@@ -24,64 +39,80 @@ public class PlayerController : MonoBehaviour
         currentHealth = maxHealth; // Inicializa la vida del player
     }
 
-
-//llamar las fisicas del personaje.
     void FixedUpdate()
     {
         if (isDead) return;
+        // Almacena el estado anterior para detectar cambios
+        wasGrounded = isGrounded;
+        // Actualiza el estado del suelo usando Physics2D.OverlapCircle
+        isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
+        
+        Move();
+        Jump();
+        UpdateAnimations();
+    }
 
+    void Move()
+    {
         float moveInput = Input.GetAxis("Horizontal");
-        float speed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : moveSpeed;
+        float currentSpeed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : moveSpeed;
 
-        rb.linearVelocity = new Vector2(moveInput * speed, rb.linearVelocity.y);
-
-
-        // Cambiar dirección del sprite
-       // if (moveInput > 0) // Moviéndose a la derecha
+        rb.linearVelocity = new Vector2(moveInput * currentSpeed, rb.linearVelocity.y);
+        
+        animator.SetFloat(paramMovement, Mathf.Abs(moveInput));
+        bool isRunning = Input.GetKey(KeyCode.LeftShift) && Mathf.Abs(moveInput) > 0.1f;
+        animator.SetBool("isRunning", isRunning);
+        
+        // Mirar en la dirección del movimiento
+        if (moveInput < 0)
         {
-           // transform.localScale = new Vector3(1, 1, 0); // Mirando a la derecha
+            transform.localScale = new Vector3(-Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
-       // else if (moveInput < 0) // Moviéndose a la izquierda
+        else if (moveInput > 0)
         {
-           // transform.localScale = new Vector3(-1, 1, 0); // Mirando a la izquierda
-        }
-
-
-        // Animaciones
-        animator.SetFloat("Speed", Mathf.Abs(moveInput));
-
-        if (Input.GetButtonDown("Jump") && !isJumping)
-        {
-            rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-            isJumping = true;
-            animator.SetBool("IsJumping", true);
-        }
-
-        if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)
-        {
-            isAttacking = true;
-            animator.SetBool("IsAttacking", true);
-        }
-
-        if (Input.GetKeyDown(KeyCode.X))
-        {
-            isDead = true;
-            animator.SetBool("IsDead", true);
+            transform.localScale = new Vector3(Mathf.Abs(transform.localScale.x), transform.localScale.y, transform.localScale.z);
         }
     }
 
-
-
-//llamar la condición Ground que sera la que detecta el piso para caminar y saltar.
+    void Jump()
+    {
+        if (isGrounded && (Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.W)))
+        {
+            rb.AddForce(new Vector2(0f, jumpForce), ForceMode2D.Impulse);
+            animator.SetBool(paramJump, true);
+            animator.SetBool(paramFalling, false);
+            // audioSource.PlayOneShot(jumpSound);
+        }
+    }
+    
+    void UpdateAnimations()
+    {
+        // Si acaba de tocar el suelo, desactivar animaciones de salto/caída
+        if (isGrounded && !wasGrounded)
+        {
+            animator.SetBool(paramJump, false);
+            animator.SetBool(paramFalling, false);
+        }
+        // Si está en el aire
+        else if (!isGrounded)
+        {
+            // Subiendo (velocidad vertical positiva) -> animación de salto
+            if (rb.linearVelocity.y > 0.1f)
+            {
+                animator.SetBool(paramJump, true);
+                animator.SetBool(paramFalling, false);
+            }
+            // Cayendo (velocidad vertical negativa) -> animación de caída
+            else if (rb.linearVelocity.y < -0.1f)
+            {
+                animator.SetBool(paramJump, false);
+                animator.SetBool(paramFalling, true);
+            }
+        }
+    }
 
     void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.CompareTag("Ground"))
-        {
-            isJumping = false;
-            animator.SetBool("IsJumping", false);
-        }
-
         // Si el player ataca al enemigo
         if (collision.gameObject.CompareTag("Enemy") && Input.GetKeyDown(KeyCode.Z))
         {
@@ -94,16 +125,16 @@ public class PlayerController : MonoBehaviour
     
 
     
-    if (collision.gameObject.CompareTag("PlataformaMovil"))
-    {
-        transform.SetParent(collision.transform); // Hace que el jugador sea hijo de la plataforma
-    }
+    // if (collision.gameObject.CompareTag("PlataformaMovil"))
+    // {
+    //     transform.SetParent(collision.transform); // Hace que el jugador sea hijo de la plataforma
+    // }
     
 
-    if (collision.gameObject.CompareTag("PlataformaMovil"))
-    {
-        transform.SetParent(null); // Libera al jugador de la plataforma
-    }
+    // if (collision.gameObject.CompareTag("PlataformaMovil"))
+    // {
+    //     transform.SetParent(null); // Libera al jugador de la plataforma
+    // }
     }
 
 
@@ -139,3 +170,31 @@ public class PlayerController : MonoBehaviour
    
    
 }
+
+//llamar las fisicas del personaje.
+    // void FixedUpdate()
+    // {
+
+
+    //     // Animaciones
+    //     animator.SetFloat("Speed", Mathf.Abs(moveInput));
+
+    //     if (Input.GetButtonDown("Jump") && !isJumping)
+    //     {
+    //         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
+    //         isJumping = true;
+    //         animator.SetBool("IsJumping", true);
+    //     }
+
+    //     if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)
+    //     {
+    //         isAttacking = true;
+    //         animator.SetBool("IsAttacking", true);
+    //     }
+
+    //     if (Input.GetKeyDown(KeyCode.X))
+    //     {
+    //         isDead = true;
+    //         animator.SetBool("IsDead", true);
+    //     }
+    // }
