@@ -1,0 +1,2782 @@
+fileFormatVersion: 2
+guid: 877479ea29a255d44a22b13691dc001c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6526074400269567669
+    second: gemaa_0
+  - first:
+      213: -594941934374471447
+    second: gemaa_1
+  - first:
+      213: -2483939301011981636
+    second: gemaa_2
+  - first:
+      213: -6810623374922335857
+    second: gemaa_3
+  - first:
+      213: 1776608829231315341
+    second: gemaa_4
+  - first:
+      213: -8927058131164552774
+    second: gemaa_5
+  - first:
+      213: 1828712814386159660
+    second: gemaa_6
+  - first:
+      213: -1172717756610908792
+    second: gemaa_7
+  - first:
+      213: -3162717827737383782
+    second: gemaa_8
+  - first:
+      213: 7602349362901948187
+    second: gemaa_9
+  - first:
+      213: 37733623845982810
+    second: gemaa_10
+  - first:
+      213: 3979957241586319088
+    second: gemaa_11
+  - first:
+      213: 8088535727866163751
+    second: gemaa_12
+  - first:
+      213: 3360168331939402212
+    second: gemaa_13
+  - first:
+      213: 9114456215724993813
+    second: gemaa_14
+  - first:
+      213: 1438584914628259906
+    second: gemaa_15
+  - first:
+      213: -5027029138287194994
+    second: gemaa_16
+  - first:
+      213: -2111740530768339849
+    second: gemaa_17
+  - first:
+      213: -4601987658354948407
+    second: gemaa_18
+  - first:
+      213: -6824635675168288489
+    second: gemaa_19
+  - first:
+      213: -3052733888289407983
+    second: gemaa_20
+  - first:
+      213: 3406577787566286138
+    second: gemaa_21
+  - first:
+      213: 8810168628195871176
+    second: gemaa_22
+  - first:
+      213: 9025490632257433602
+    second: gemaa_23
+  - first:
+      213: -6768039374470759780
+    second: gemaa_24
+  - first:
+      213: 7557938183328282274
+    second: gemaa_25
+  - first:
+      213: -8000849301344411891
+    second: gemaa_26
+  - first:
+      213: 2135321546190373756
+    second: gemaa_27
+  - first:
+      213: -5462839318297875782
+    second: gemaa_28
+  - first:
+      213: -5264731410499631235
+    second: gemaa_29
+  - first:
+      213: -8582473659199878417
+    second: gemaa_30
+  - first:
+      213: 4636434747765849992
+    second: gemaa_31
+  - first:
+      213: -7148309703661394961
+    second: gemaa_32
+  - first:
+      213: 2559683876633165835
+    second: gemaa_33
+  - first:
+      213: 7368598541680228724
+    second: gemaa_34
+  - first:
+      213: 497009505034377035
+    second: gemaa_35
+  - first:
+      213: 8457815494027758044
+    second: gemaa_36
+  - first:
+      213: 1309478111701827797
+    second: gemaa_37
+  - first:
+      213: 2623687213816806136
+    second: gemaa_38
+  - first:
+      213: -1204524963908185392
+    second: gemaa_39
+  - first:
+      213: -5702681975419258700
+    second: gemaa_40
+  - first:
+      213: 1165669001171056822
+    second: gemaa_41
+  - first:
+      213: 1493169010671278850
+    second: gemaa_42
+  - first:
+      213: -4660808823709540218
+    second: gemaa_43
+  - first:
+      213: 960141382098300550
+    second: gemaa_44
+  - first:
+      213: 589680610389708350
+    second: gemaa_45
+  - first:
+      213: 844037789989289863
+    second: gemaa_46
+  - first:
+      213: 7858858264705989887
+    second: gemaa_47
+  - first:
+      213: -6417171806426007693
+    second: gemaa_48
+  - first:
+      213: 8967432634264666554
+    second: gemaa_49
+  - first:
+      213: -7141140947724779049
+    second: gemaa_50
+  - first:
+      213: -4472866475968307263
+    second: gemaa_51
+  - first:
+      213: 371810251955733566
+    second: gemaa_52
+  - first:
+      213: 5735319657111487799
+    second: gemaa_53
+  - first:
+      213: -4516818353023908835
+    second: gemaa_54
+  - first:
+      213: -1259524522768074424
+    second: gemaa_55
+  - first:
+      213: 3913213619812836844
+    second: gemaa_56
+  - first:
+      213: 1921481996295551455
+    second: gemaa_57
+  - first:
+      213: 4573149123446388663
+    second: gemaa_58
+  - first:
+      213: -1064143567111781337
+    second: gemaa_59
+  - first:
+      213: 4169924632092695311
+    second: gemaa_60
+  - first:
+      213: 7891417456427942759
+    second: gemaa_61
+  - first:
+      213: 1342927239766865080
+    second: gemaa_62
+  - first:
+      213: -2363462822034135226
+    second: gemaa_63
+  - first:
+      213: -7295228548789567358
+    second: gemaa_64
+  - first:
+      213: 236303714221749659
+    second: gemaa_65
+  - first:
+      213: -3143910150462834589
+    second: gemaa_66
+  - first:
+      213: 7952084920810843003
+    second: gemaa_67
+  - first:
+      213: -2025685585015018892
+    second: gemaa_68
+  - first:
+      213: -2522103996614980371
+    second: gemaa_69
+  - first:
+      213: 1785075863153856040
+    second: gemaa_70
+  - first:
+      213: 22204386149734276
+    second: gemaa_71
+  - first:
+      213: -4224987334202465985
+    second: gemaa_72
+  - first:
+      213: 3444339799397083135
+    second: gemaa_73
+  - first:
+      213: 6307393760903271080
+    second: gemaa_74
+  - first:
+      213: -8827586301317786246
+    second: gemaa_75
+  - first:
+      213: -4570681483697903356
+    second: gemaa_76
+  - first:
+      213: -4266065751744776241
+    second: gemaa_77
+  - first:
+      213: 8688133054250192933
+    second: gemaa_78
+  - first:
+      213: 6340769923056086500
+    second: gemaa_79
+  - first:
+      213: 1579585508228189593
+    second: gemaa_80
+  - first:
+      213: 7191994114240462523
+    second: gemaa_81
+  - first:
+      213: 2141824428153244248
+    second: gemaa_82
+  - first:
+      213: 1792166666614856691
+    second: gemaa_83
+  - first:
+      213: 1077942927583679708
+    second: gemaa_84
+  - first:
+      213: -62705800468965311
+    second: gemaa_85
+  - first:
+      213: -6558240122326048892
+    second: gemaa_86
+  - first:
+      213: -55238341631084888
+    second: gemaa_87
+  - first:
+      213: -3044482461867791656
+    second: gemaa_88
+  - first:
+      213: 1300177175913792844
+    second: gemaa_89
+  - first:
+      213: 8520496184438470235
+    second: gemaa_90
+  - first:
+      213: -7426096218329821314
+    second: gemaa_91
+  - first:
+      213: 2241279468809733511
+    second: gemaa_92
+  - first:
+      213: -4486862018997478235
+    second: gemaa_93
+  - first:
+      213: -5111198736582014253
+    second: gemaa_94
+  - first:
+      213: -2560414050845544026
+    second: gemaa_95
+  - first:
+      213: 4386974260862424219
+    second: gemaa_96
+  - first:
+      213: 4333015259616992234
+    second: gemaa_97
+  - first:
+      213: 8937229602001014235
+    second: gemaa_98
+  - first:
+      213: -8337797800706326557
+    second: gemaa_99
+  - first:
+      213: -2277732359230558023
+    second: gemaa_100
+  - first:
+      213: -8289955521131897457
+    second: gemaa_101
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: gemaa_0
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 597
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49792ad8e9be65a0800000000000000
+      internalID: -6526074400269567669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_1
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 590
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e830ab76775eb7f0800000000000000
+      internalID: -594941934374471447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_2
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 595
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba7c8fbd56478dd0800000000000000
+      internalID: -2483939301011981636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_3
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 589
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8938ceef1ecb71a0800000000000000
+      internalID: -6810623374922335857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_4
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 593
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89b72b3158c7a810800000000000000
+      internalID: 1776608829231315341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_5
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 589
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab1aca26de7bc1480800000000000000
+      internalID: -8927058131164552774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_6
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 594
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2021b1ad94e06910800000000000000
+      internalID: 1828712814386159660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_7
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 482
+        width: 119
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88de967e96ba9bfe0800000000000000
+      internalID: -1172717756610908792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_8
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 584
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c0be874e4cb14d0800000000000000
+      internalID: -3162717827737383782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_9
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 579
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1710327778f08960800000000000000
+      internalID: 7602349362901948187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_10
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 583
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a529d6de78e068000800000000000000
+      internalID: 37733623845982810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_11
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 574
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fefef54606ab3730800000000000000
+      internalID: 3979957241586319088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_12
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 576
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722b48cb360404070800000000000000
+      internalID: 8088535727866163751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_13
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 575
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e1d3c28b47b1ae20800000000000000
+      internalID: 3360168331939402212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_14
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 566
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51da32343ad0d7e70800000000000000
+      internalID: 9114456215724993813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_15
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 555
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24037af9b51e6f310800000000000000
+      internalID: 1438584914628259906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_16
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 563
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c8ad012a76c3ab0800000000000000
+      internalID: -5027029138287194994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_17
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 556
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c12cdfc2791b2e0800000000000000
+      internalID: -2111740530768339849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_18
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 549
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6850b6b947220c0800000000000000
+      internalID: -4601987658354948407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_19
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 553
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711d22c03060a41a0800000000000000
+      internalID: -6824635675168288489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_20
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 544
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c76b2e3b282a5d0800000000000000
+      internalID: -3052733888289407983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_21
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 543
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a35ef9fe278964f20800000000000000
+      internalID: 3406577787566286138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_22
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 541
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c9c7e660b1044a70800000000000000
+      internalID: 8810168628195871176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_23
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 522
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200f15339ebf04d70800000000000000
+      internalID: 9025490632257433602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_24
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 525
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a30da2c081312a0800000000000000
+      internalID: -6768039374470759780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_25
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 531
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6b4abebb033e860800000000000000
+      internalID: 7557938183328282274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_26
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 530
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f1fe363f547f090800000000000000
+      internalID: -8000849301344411891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_27
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 530
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c734ae102af22ad10800000000000000
+      internalID: 2135321546190373756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_28
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 519
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba61d755981034b0800000000000000
+      internalID: -5462839318297875782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_29
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 524
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7704570daaefe6b0800000000000000
+      internalID: -5264731410499631235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_30
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 519
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea8e39cdade4e880800000000000000
+      internalID: -8582473659199878417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 521
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88f7cd496dce75040800000000000000
+      internalID: 4636434747765849992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_32
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 503
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe3e8c8a23a1ccc90800000000000000
+      internalID: -7148309703661394961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_33
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 506
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00c30c8ce2d58320800000000000000
+      internalID: 2559683876633165835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_34
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 499
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479bf494555824660800000000000000
+      internalID: 7368598541680228724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_35
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 473
+        width: 29
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b471195f28bb5e600800000000000000
+      internalID: 497009505034377035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_36
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 503
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd9c1516162306570800000000000000
+      internalID: 8457815494027758044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_37
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 507
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0032997633c2210800000000000000
+      internalID: 1309478111701827797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_38
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 508
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8faf84dbe95396420800000000000000
+      internalID: 2623687213816806136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_39
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 490
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2992b5deaa84fe0800000000000000
+      internalID: -1204524963908185392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_40
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 498
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8bc1c15f00cd0b0800000000000000
+      internalID: -5702681975419258700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_41
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 494
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b83c74d7c94d2010800000000000000
+      internalID: 1165669001171056822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_42
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 491
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20bdea6dd4dc8b410800000000000000
+      internalID: 1493169010671278850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_43
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 495
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68069c0a11b715fb0800000000000000
+      internalID: -4660808823709540218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_44
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 478
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e2f1eff7b135d00800000000000000
+      internalID: 960141382098300550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_45
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 470
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ec6311467fe2800800000000000000
+      internalID: 589680610389708350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_46
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 468
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f3159e5ef96bb00800000000000000
+      internalID: 844037789989289863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_47
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 478
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc71f724f5401d60800000000000000
+      internalID: 7858858264705989887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_48
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 461
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 377735fdd30a1f6a0800000000000000
+      internalID: -6417171806426007693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_49
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 476
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab147982878b27c70800000000000000
+      internalID: 8967432634264666554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 475
+        width: 15
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d14ed7b42295ec90800000000000000
+      internalID: -7141140947724779049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_51
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 475
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cfd72c63af2de1c0800000000000000
+      internalID: -4472866475968307263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_52
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 481
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e348ba7447fe82500800000000000000
+      internalID: 371810251955733566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_53
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 474
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735027357d2f79f40800000000000000
+      internalID: 5735319657111487799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_54
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 479
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d148b0993a90151c0800000000000000
+      internalID: -4516818353023908835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_55
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 455
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849f38aae15458ee0800000000000000
+      internalID: -1259524522768074424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_56
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 466
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce52a2bdd078e4630800000000000000
+      internalID: 3913213619812836844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_57
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 443
+        width: 18
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd93187f1b97aaa10800000000000000
+      internalID: 1921481996295551455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_58
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 463
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b739efe5e6177f30800000000000000
+      internalID: 4573149123446388663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 467
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724094450176b31f0800000000000000
+      internalID: -1064143567111781337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_60
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 464
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0b59041c5c8ed930800000000000000
+      internalID: 4169924632092695311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_61
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 464
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76344b8bd52f38d60800000000000000
+      internalID: 7891417456427942759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_62
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 467
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4ff7d953903a210800000000000000
+      internalID: 1342927239766865080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_63
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 470
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64720d4e51b433fd0800000000000000
+      internalID: -2363462822034135226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_64
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 441
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2800c12694422ca90800000000000000
+      internalID: -7295228548789567358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_65
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 450
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95fa41e9f4874300800000000000000
+      internalID: 236303714221749659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_66
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 456
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 368fae310669e54d0800000000000000
+      internalID: -3143910150462834589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_67
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 452
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7baba08a1b7b5e60800000000000000
+      internalID: 7952084920810843003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_68
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 444
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47aec8661b153e3e0800000000000000
+      internalID: -2025685585015018892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_69
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 452
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deccb2b17cfaffcd0800000000000000
+      internalID: -2522103996614980371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_70
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 448
+        width: 9
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ec8603a0dd5c810800000000000000
+      internalID: 1785075863153856040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_71
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 437
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48719e485c2ee4000800000000000000
+      internalID: 22204386149734276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_72
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 453
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f31665c8764dd55c0800000000000000
+      internalID: -4224987334202465985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_73
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 427
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7adc47cc0cccf20800000000000000
+      internalID: 3444339799397083135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_74
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 446
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a29721253d588750800000000000000
+      internalID: 6307393760903271080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_75
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 427
+        width: 13
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7559dd870d1e7580800000000000000
+      internalID: -8827586301317786246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_76
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 439
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4092bb6386da190c0800000000000000
+      internalID: -4570681483697903356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_77
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 427
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc7fac62dc3ebc4c0800000000000000
+      internalID: -4266065751744776241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_78
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 406
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52099eb2bf2729870800000000000000
+      internalID: 8688133054250192933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_79
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 443
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed2d3276a0fef750800000000000000
+      internalID: 6340769923056086500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_80
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 435
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99dcb4696a0dbe510800000000000000
+      internalID: 1579585508228189593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_81
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 429
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbeb006ca881fc360800000000000000
+      internalID: 7191994114240462523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_82
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 444
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85a045338f949bd10800000000000000
+      internalID: 2141824428153244248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_83
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 425
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbdfd5861e0fd810800000000000000
+      internalID: 1792166666614856691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_84
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 430
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd415c6a16f95fe00800000000000000
+      internalID: 1077942927583679708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_85
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 427
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 148d0bd1869312ff0800000000000000
+      internalID: -62705800468965311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_86
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 422
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48f9a051b537cf4a0800000000000000
+      internalID: -6558240122326048892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_87
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 428
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a6f81d5501cb3ff0800000000000000
+      internalID: -55238341631084888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_88
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 412
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8daa67fc453dfb5d0800000000000000
+      internalID: -3044482461867791656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_89
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 420
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c45896bb0482b0210800000000000000
+      internalID: 1300177175913792844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_90
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 415
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b56b68fd222ee3670800000000000000
+      internalID: 8520496184438470235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_91
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 423
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f4496a5d431f890800000000000000
+      internalID: -7426096218329821314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_92
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 423
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785c7c45dcf9a1f10800000000000000
+      internalID: 2241279468809733511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_93
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ac967124c67bb1c0800000000000000
+      internalID: -4486862018997478235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_94
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 396
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da8a9154df5119b0800000000000000
+      internalID: -5111198736582014253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_95
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 405
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a1be658cf4977cd0800000000000000
+      internalID: -2560414050845544026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_96
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 401
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949c79d8d9a1ec30800000000000000
+      internalID: 4386974260862424219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_97
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 384
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aeb51dbdb66f12c30800000000000000
+      internalID: 4333015259616992234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_98
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 402
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd4067b8fa670c70800000000000000
+      internalID: 8937229602001014235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_99
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 399
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efbdd763113a4c80800000000000000
+      internalID: -8337797800706326557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_100
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 400
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b076aabc7ed360e0800000000000000
+      internalID: -2277732359230558023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: gemaa_101
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 386
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8d1527206924fc80800000000000000
+      internalID: -8289955521131897457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      gemaa_0: -6526074400269567669
+      gemaa_1: -594941934374471447
+      gemaa_10: 37733623845982810
+      gemaa_100: -2277732359230558023
+      gemaa_101: -8289955521131897457
+      gemaa_11: 3979957241586319088
+      gemaa_12: 8088535727866163751
+      gemaa_13: 3360168331939402212
+      gemaa_14: 9114456215724993813
+      gemaa_15: 1438584914628259906
+      gemaa_16: -5027029138287194994
+      gemaa_17: -2111740530768339849
+      gemaa_18: -4601987658354948407
+      gemaa_19: -6824635675168288489
+      gemaa_2: -2483939301011981636
+      gemaa_20: -3052733888289407983
+      gemaa_21: 3406577787566286138
+      gemaa_22: 8810168628195871176
+      gemaa_23: 9025490632257433602
+      gemaa_24: -6768039374470759780
+      gemaa_25: 7557938183328282274
+      gemaa_26: -8000849301344411891
+      gemaa_27: 2135321546190373756
+      gemaa_28: -5462839318297875782
+      gemaa_29: -5264731410499631235
+      gemaa_3: -6810623374922335857
+      gemaa_30: -8582473659199878417
+      gemaa_31: 4636434747765849992
+      gemaa_32: -7148309703661394961
+      gemaa_33: 2559683876633165835
+      gemaa_34: 7368598541680228724
+      gemaa_35: 497009505034377035
+      gemaa_36: 8457815494027758044
+      gemaa_37: 1309478111701827797
+      gemaa_38: 2623687213816806136
+      gemaa_39: -1204524963908185392
+      gemaa_4: 1776608829231315341
+      gemaa_40: -5702681975419258700
+      gemaa_41: 1165669001171056822
+      gemaa_42: 1493169010671278850
+      gemaa_43: -4660808823709540218
+      gemaa_44: 960141382098300550
+      gemaa_45: 589680610389708350
+      gemaa_46: 844037789989289863
+      gemaa_47: 7858858264705989887
+      gemaa_48: -6417171806426007693
+      gemaa_49: 8967432634264666554
+      gemaa_5: -8927058131164552774
+      gemaa_50: -7141140947724779049
+      gemaa_51: -4472866475968307263
+      gemaa_52: 371810251955733566
+      gemaa_53: 5735319657111487799
+      gemaa_54: -4516818353023908835
+      gemaa_55: -1259524522768074424
+      gemaa_56: 3913213619812836844
+      gemaa_57: 1921481996295551455
+      gemaa_58: 4573149123446388663
+      gemaa_59: -1064143567111781337
+      gemaa_6: 1828712814386159660
+      gemaa_60: 4169924632092695311
+      gemaa_61: 7891417456427942759
+      gemaa_62: 1342927239766865080
+      gemaa_63: -2363462822034135226
+      gemaa_64: -7295228548789567358
+      gemaa_65: 236303714221749659
+      gemaa_66: -3143910150462834589
+      gemaa_67: 7952084920810843003
+      gemaa_68: -2025685585015018892
+      gemaa_69: -2522103996614980371
+      gemaa_7: -1172717756610908792
+      gemaa_70: 1785075863153856040
+      gemaa_71: 22204386149734276
+      gemaa_72: -4224987334202465985
+      gemaa_73: 3444339799397083135
+      gemaa_74: 6307393760903271080
+      gemaa_75: -8827586301317786246
+      gemaa_76: -4570681483697903356
+      gemaa_77: -4266065751744776241
+      gemaa_78: 8688133054250192933
+      gemaa_79: 6340769923056086500
+      gemaa_8: -3162717827737383782
+      gemaa_80: 1579585508228189593
+      gemaa_81: 7191994114240462523
+      gemaa_82: 2141824428153244248
+      gemaa_83: 1792166666614856691
+      gemaa_84: 1077942927583679708
+      gemaa_85: -62705800468965311
+      gemaa_86: -6558240122326048892
+      gemaa_87: -55238341631084888
+      gemaa_88: -3044482461867791656
+      gemaa_89: 1300177175913792844
+      gemaa_9: 7602349362901948187
+      gemaa_90: 8520496184438470235
+      gemaa_91: -7426096218329821314
+      gemaa_92: 2241279468809733511
+      gemaa_93: -4486862018997478235
+      gemaa_94: -5111198736582014253
+      gemaa_95: -2560414050845544026
+      gemaa_96: 4386974260862424219
+      gemaa_97: 4333015259616992234
+      gemaa_98: 8937229602001014235
+      gemaa_99: -8337797800706326557
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
