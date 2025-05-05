@@ -383,7 +383,7 @@ GameObject:
   - component: {fileID: 28181591}
   - component: {fileID: 28181593}
   - component: {fileID: 28181594}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plataforma05
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -454,7 +454,7 @@ Transform:
   m_GameObject: {fileID: 28181590}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 64.850006, y: 2.45, z: 0}
+  m_LocalPosition: {x: 62.9, y: 2.45, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -946,8 +946,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 152fdba03353eaa418b6db75d27b69aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidad: 1
-  distancia: 2
+  velocidad: 0.5
+  distancia: 10
 --- !u!1 &41140064
 GameObject:
   m_ObjectHideFlags: 0
@@ -2522,7 +2522,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 8.21125, y: 6.753748, z: -11.687999}
+  m_LocalPosition: {x: 10.22, y: 4.73, z: -11.687999}
   m_LocalScale: {x: 2.0889, y: 2.0889, z: 2.0889}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -2637,7 +2637,7 @@ GameObject:
   - component: {fileID: 528144767}
   - component: {fileID: 528144769}
   - component: {fileID: 528144770}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Plataforma05 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -2708,7 +2708,7 @@ Transform:
   m_GameObject: {fileID: 528144766}
   serializedVersion: 2
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 73.149994, y: 5, z: 0}
+  m_LocalPosition: {x: 74.55, y: 2.46, z: 0}
   m_LocalScale: {x: 0.5, y: 0.5, z: 0.5}
   m_ConstrainProportionsScale: 1
   m_Children: []
@@ -3200,8 +3200,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9235d7100885a2c4bba844d976153826, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  velocidad: 1
-  distancia: 2
+  velocidad: 0.5
+  distancia: 10
 --- !u!1 &536106487
 GameObject:
   m_ObjectHideFlags: 0
@@ -3582,7 +3582,7 @@ GameObject:
   - component: {fileID: 610076901}
   - component: {fileID: 610076900}
   - component: {fileID: 610076899}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: arbol1
   m_TagString: Untagged
   m_Icon: {fileID: 7250588514170254948, guid: 0000000000000000d000000000000000, type: 0}
@@ -4400,7 +4400,7 @@ GameObject:
   - component: {fileID: 808727371}
   - component: {fileID: 808727372}
   - component: {fileID: 808727370}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Objetos_23
   m_TagString: Untagged
   m_Icon: {fileID: 419385456094870383, guid: 0000000000000000d000000000000000, type: 0}
@@ -4507,7 +4507,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: faf0dbfe4c519b540b6f3c9ad86ca076, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -6276,7 +6276,7 @@ Rigidbody2D:
   m_LinearDamping: 0
   m_AngularDamping: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 009cf9672bd14574e98bc3519ac8643f, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -6297,7 +6297,7 @@ CapsuleCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 009cf9672bd14574e98bc3519ac8643f, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -6388,7 +6388,7 @@ Transform:
   m_GameObject: {fileID: 1532008564}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -10.311251, y: -6.753748, z: 0}
+  m_LocalPosition: {x: -13.37, y: -6.59, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -9015,7 +9015,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1774049929}
   - component: {fileID: 1774049928}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: Suelo 1_0 (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}

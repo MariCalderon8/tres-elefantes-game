@@ -16,6 +16,6 @@ public class MovimientoVertical : MonoBehaviour
     void Update()
     {
         // Mueve la plataforma entre los puntos de inicio y fin
-        transform.position = Vector3.Lerp(inicio, fin, Mathf.PingPong(Time.time * velocidad, 1.0f));
+        transform.position = Vector3.Lerp(fin, inicio, Mathf.PingPong(Time.time * velocidad, 1.0f));
     }
 }
