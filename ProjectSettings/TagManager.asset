@@ -9,6 +9,7 @@ TagManager:
   - Coin
   - Ground
   - Jugador
+  - PlataformaMovil
   layers:
   - Default
   - TransparentFX

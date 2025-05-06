@@ -122,19 +122,21 @@ public class PlayerController : MonoBehaviour
                 enemy.TakeDamage(attackDamage); // Hace daño al enemigo
             }
         }
-    
 
     
-    // if (collision.gameObject.CompareTag("PlataformaMovil"))
-    // {
-    //     transform.SetParent(collision.transform); // Hace que el jugador sea hijo de la plataforma
-    // }
-    
+        if (collision.gameObject.CompareTag("PlataformaMovil"))
+        {
+            transform.SetParent(collision.transform); // Hace que el jugador sea hijo de la plataforma
+        }
+        
+    }
 
-    // if (collision.gameObject.CompareTag("PlataformaMovil"))
-    // {
-    //     transform.SetParent(null); // Libera al jugador de la plataforma
-    // }
+    void OnCollisionExit2D(Collision2D collision)
+    {
+        if (collision.gameObject.CompareTag("PlataformaMovil"))
+        {
+            transform.SetParent(null); // Libera al jugador de la plataforma
+        }
     }
 
 
