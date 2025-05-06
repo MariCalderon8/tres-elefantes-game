@@ -11,6 +11,7 @@ TagManager:
   - Jugador
   - PlataformaMovil
   - GroundCheck
+  - Plataform
   layers:
   - Default
   - TransparentFX
