@@ -53,6 +53,7 @@ public class PlayerController : MonoBehaviour
     private readonly string paramJump = "isJumping";
     private readonly string paramAttack = "isAttacking";
     private readonly string paramFalling = "isFalling";
+    private readonly string paramGrounded = "isGrounded";
 
 //llamar en esta función los dos componentes del player rb y anim
     void Start()
@@ -90,7 +91,8 @@ public class PlayerController : MonoBehaviour
         
         wasGrounded = isGrounded;
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
-        
+        animator.SetBool(paramGrounded, isGrounded);
+        Debug.Log("isGrounded: " + isGrounded);
         if (isGrounded)
         {
             coyoteTimeCounter = coyoteTime;
