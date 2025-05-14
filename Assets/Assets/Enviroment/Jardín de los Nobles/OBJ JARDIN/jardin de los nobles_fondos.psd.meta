@@ -1,0 +1,817 @@
+fileFormatVersion: 2
+guid: 764c85a166054a148ac38dc7bc8b9a64
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2087735786224255969
+    second: jardin de los nobles_fondos_0
+  - first:
+      213: -635182827505694611
+    second: jardin de los nobles_fondos_1
+  - first:
+      213: -4091660341963871127
+    second: jardin de los nobles_fondos_2
+  - first:
+      213: -158302267539083975
+    second: jardin de los nobles_fondos_3
+  - first:
+      213: 2216517626341917480
+    second: jardin de los nobles_fondos_4
+  - first:
+      213: -8814861368537235841
+    second: jardin de los nobles_fondos_5
+  - first:
+      213: 6565954729288827349
+    second: jardin de los nobles_fondos_6
+  - first:
+      213: -4689807602966385879
+    second: jardin de los nobles_fondos_7
+  - first:
+      213: 3094641780591134966
+    second: jardin de los nobles_fondos_8
+  - first:
+      213: 9148141291544008256
+    second: jardin de los nobles_fondos_9
+  - first:
+      213: 2757529318760835410
+    second: jardin de los nobles_fondos_10
+  - first:
+      213: 3832357552759986033
+    second: jardin de los nobles_fondos_11
+  - first:
+      213: -418046857344570308
+    second: jardin de los nobles_fondos_12
+  - first:
+      213: -6750340643779851946
+    second: jardin de los nobles_fondos_13
+  - first:
+      213: 326183606505579330
+    second: jardin de los nobles_fondos_14
+  - first:
+      213: 6749520585350545832
+    second: jardin de los nobles_fondos_15
+  - first:
+      213: -4198302070011934299
+    second: jardin de los nobles_fondos_16
+  - first:
+      213: 5244572922780042701
+    second: jardin de los nobles_fondos_17
+  - first:
+      213: 2707039061375570973
+    second: jardin de los nobles_fondos_18
+  - first:
+      213: 387882655648769989
+    second: jardin de los nobles_fondos_19
+  - first:
+      213: 2253712552844174913
+    second: jardin de los nobles_fondos_20
+  - first:
+      213: 7177332409968809883
+    second: jardin de los nobles_fondos_21
+  - first:
+      213: -8320617552626070035
+    second: jardin de los nobles_fondos_22
+  - first:
+      213: -2330137212246058451
+    second: jardin de los nobles_fondos_23
+  - first:
+      213: -686655449241870273
+    second: jardin de los nobles_fondos_24
+  - first:
+      213: 7296854075567257579
+    second: jardin de los nobles_fondos_25
+  - first:
+      213: -2788694467493038007
+    second: jardin de los nobles_fondos_26
+  - first:
+      213: 6711562564800744315
+    second: jardin de los nobles_fondos_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_0
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 108
+        width: 155
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e384c2e2a029fc10800000000000000
+      internalID: 2087735786224255969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_1
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 197
+        width: 100
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d68481f65906f27f0800000000000000
+      internalID: -635182827505694611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_2
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 172
+        width: 84
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ca0b7f8908737c0800000000000000
+      internalID: -4091660341963871127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_3
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 111
+        width: 220
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93da1382de89dcdf0800000000000000
+      internalID: -158302267539083975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_4
+      rect:
+        serializedVersion: 2
+        x: 1339
+        y: 198
+        width: 93
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823808c9907a2ce10800000000000000
+      internalID: 2216517626341917480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_5
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 0
+        width: 262
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e3608d9425ba580800000000000000
+      internalID: -8814861368537235841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_6
+      rect:
+        serializedVersion: 2
+        x: 2023
+        y: 106
+        width: 155
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d18e82d905fe1b50800000000000000
+      internalID: 6565954729288827349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_7
+      rect:
+        serializedVersion: 2
+        x: 2328
+        y: 158
+        width: 108
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b234035d47aeeb0800000000000000
+      internalID: -4689807602966385879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_8
+      rect:
+        serializedVersion: 2
+        x: 2524
+        y: 170
+        width: 129
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f88737ad4062fa20800000000000000
+      internalID: 3094641780591134966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_9
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 229
+        width: 18
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0465095290ab4fe70800000000000000
+      internalID: 9148141291544008256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_10
+      rect:
+        serializedVersion: 2
+        x: 2694
+        y: 243
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259e67e2e46b44620800000000000000
+      internalID: 2757529318760835410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_11
+      rect:
+        serializedVersion: 2
+        x: 2768
+        y: 258
+        width: 18
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1775b88b3e44f2530800000000000000
+      internalID: 3832357552759986033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_12
+      rect:
+        serializedVersion: 2
+        x: 2796
+        y: 246
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c2280299cc23af0800000000000000
+      internalID: -418046857344570308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_13
+      rect:
+        serializedVersion: 2
+        x: 2844
+        y: 145
+        width: 145
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659ce9603f8f152a0800000000000000
+      internalID: -6750340643779851946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_14
+      rect:
+        serializedVersion: 2
+        x: 3089
+        y: 131
+        width: 182
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 243225d0346d68400800000000000000
+      internalID: 326183606505579330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_15
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 136
+        width: 136
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1810e363d1bad50800000000000000
+      internalID: 6749520585350545832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_16
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 168
+        width: 104
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9c629c282acb5c0800000000000000
+      internalID: -4198302070011934299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_17
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 197
+        width: 93
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5cfec494778c840800000000000000
+      internalID: 5244572922780042701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_18
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 0
+        width: 300
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14d56e0fa5519520800000000000000
+      internalID: 2707039061375570973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_19
+      rect:
+        serializedVersion: 2
+        x: 4009
+        y: 140
+        width: 109
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7ea706839026500800000000000000
+      internalID: 387882655648769989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_20
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 176
+        width: 117
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146ad1a40abc64f10800000000000000
+      internalID: 2253712552844174913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_21
+      rect:
+        serializedVersion: 2
+        x: 4458
+        y: 113
+        width: 139
+        height: 288
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b97d61bbcc10b9360800000000000000
+      internalID: 7177332409968809883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_22
+      rect:
+        serializedVersion: 2
+        x: 4938
+        y: 137
+        width: 113
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedc7df9b6a378c80800000000000000
+      internalID: -8320617552626070035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_23
+      rect:
+        serializedVersion: 2
+        x: 5181
+        y: 194
+        width: 99
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a97221d80b9afd0800000000000000
+      internalID: -2330137212246058451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_24
+      rect:
+        serializedVersion: 2
+        x: 5311
+        y: 175
+        width: 113
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f302ad8c1828876f0800000000000000
+      internalID: -686655449241870273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_25
+      rect:
+        serializedVersion: 2
+        x: 5447
+        y: 0
+        width: 283
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be73c001f12a34560800000000000000
+      internalID: 7296854075567257579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_26
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 175
+        width: 81
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948fafd28219c49d0800000000000000
+      internalID: -2788694467493038007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_fondos_27
+      rect:
+        serializedVersion: 2
+        x: 2754
+        y: 197
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7b02c2e792442d50800000000000000
+      internalID: 6711562564800744315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

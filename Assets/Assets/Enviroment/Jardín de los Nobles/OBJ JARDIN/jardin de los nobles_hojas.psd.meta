@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: 796df97e52053da418a6e5b3930b58f6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7281815517255146241
+    second: jardin de los nobles_hojas_0
+  - first:
+      213: -2037464653131237292
+    second: jardin de los nobles_hojas_1
+  - first:
+      213: -8483900698878420123
+    second: jardin de los nobles_hojas_2
+  - first:
+      213: 5953154360120656847
+    second: jardin de los nobles_hojas_3
+  - first:
+      213: -171186756894466778
+    second: jardin de los nobles_hojas_4
+  - first:
+      213: -5073830008904924844
+    second: jardin de los nobles_hojas_5
+  - first:
+      213: -7618147255069908359
+    second: jardin de los nobles_hojas_6
+  - first:
+      213: -1279044899102323422
+    second: jardin de los nobles_hojas_7
+  - first:
+      213: 2041501086259497391
+    second: jardin de los nobles_hojas_8
+  - first:
+      213: 4320992084722439894
+    second: jardin de los nobles_hojas_9
+  - first:
+      213: 5216410443095133741
+    second: jardin de los nobles_hojas_10
+  - first:
+      213: -6057195469043510758
+    second: jardin de los nobles_hojas_11
+  - first:
+      213: 6318892476533849654
+    second: jardin de los nobles_hojas_12
+  - first:
+      213: 1585700973522994802
+    second: jardin de los nobles_hojas_13
+  - first:
+      213: -617545357550076555
+    second: jardin de los nobles_hojas_14
+  - first:
+      213: 3009638104628864706
+    second: jardin de los nobles_hojas_15
+  - first:
+      213: 5995114934894633099
+    second: jardin de los nobles_hojas_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_0
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 213
+        width: 68
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff464162e5bc1fa90800000000000000
+      internalID: -7281815517255146241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_1
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 144
+        width: 93
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458b2b361b879b3e0800000000000000
+      internalID: -2037464653131237292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_2
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 144
+        width: 93
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56bd9a59341234a80800000000000000
+      internalID: -8483900698878420123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_3
+      rect:
+        serializedVersion: 2
+        x: 4813
+        y: 144
+        width: 93
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc34f00795add9250800000000000000
+      internalID: 5953154360120656847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 94
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62ddd053d82df9df0800000000000000
+      internalID: -171186756894466778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_5
+      rect:
+        serializedVersion: 2
+        x: 2183
+        y: 94
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451418c3d722699b0800000000000000
+      internalID: -5073830008904924844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_6
+      rect:
+        serializedVersion: 2
+        x: 2366
+        y: 94
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972e0f62f67e64690800000000000000
+      internalID: -7618147255069908359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_7
+      rect:
+        serializedVersion: 2
+        x: 3507
+        y: 64
+        width: 112
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22d0b31e07bef3ee0800000000000000
+      internalID: -1279044899102323422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_8
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 94
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9421feb6ed45c10800000000000000
+      internalID: 2041501086259497391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_9
+      rect:
+        serializedVersion: 2
+        x: 5746
+        y: 95
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6d72f486f37fb30800000000000000
+      internalID: 4320992084722439894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_10
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 50
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ec25709a9646840800000000000000
+      internalID: 5216410443095133741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_11
+      rect:
+        serializedVersion: 2
+        x: 1941
+        y: 14
+        width: 153
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a125e8430d480fba0800000000000000
+      internalID: -6057195469043510758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_12
+      rect:
+        serializedVersion: 2
+        x: 2688
+        y: 50
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63e30bd7a3731b750800000000000000
+      internalID: 6318892476533849654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_13
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 14
+        width: 153
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27644de42aa810610800000000000000
+      internalID: 1585700973522994802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_14
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 36
+        width: 167
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d398ae4c90e67f0800000000000000
+      internalID: -617545357550076555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_15
+      rect:
+        serializedVersion: 2
+        x: 4888
+        y: 50
+        width: 98
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c622e019e164c920800000000000000
+      internalID: 3009638104628864706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_hojas_16
+      rect:
+        serializedVersion: 2
+        x: 5321
+        y: 14
+        width: 153
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80a802154de23350800000000000000
+      internalID: 5995114934894633099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

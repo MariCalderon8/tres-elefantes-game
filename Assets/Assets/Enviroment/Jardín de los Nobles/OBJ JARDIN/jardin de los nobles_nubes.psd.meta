@@ -1,0 +1,592 @@
+fileFormatVersion: 2
+guid: a31bd622b21f70147877bc22f3375966
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8228275587745985393
+    second: jardin de los nobles_nubes_0
+  - first:
+      213: 7911954581153262656
+    second: jardin de los nobles_nubes_1
+  - first:
+      213: 1600342351517176401
+    second: jardin de los nobles_nubes_2
+  - first:
+      213: 4146223765646527875
+    second: jardin de los nobles_nubes_3
+  - first:
+      213: 872161951227426052
+    second: jardin de los nobles_nubes_4
+  - first:
+      213: -831817138135269376
+    second: jardin de los nobles_nubes_5
+  - first:
+      213: 2032033134213549038
+    second: jardin de los nobles_nubes_6
+  - first:
+      213: 3725956948360266354
+    second: jardin de los nobles_nubes_7
+  - first:
+      213: 5958531014968591672
+    second: jardin de los nobles_nubes_8
+  - first:
+      213: 2467668166007789418
+    second: jardin de los nobles_nubes_9
+  - first:
+      213: -2748449734561133072
+    second: jardin de los nobles_nubes_10
+  - first:
+      213: -392715060727766739
+    second: jardin de los nobles_nubes_11
+  - first:
+      213: -469680215174454927
+    second: jardin de los nobles_nubes_12
+  - first:
+      213: -3476775896286859413
+    second: jardin de los nobles_nubes_13
+  - first:
+      213: 5950874200377650679
+    second: jardin de los nobles_nubes_14
+  - first:
+      213: -5272665708985373032
+    second: jardin de los nobles_nubes_15
+  - first:
+      213: 4516090483985503959
+    second: jardin de los nobles_nubes_16
+  - first:
+      213: 7799818799890191284
+    second: jardin de los nobles_nubes_17
+  - first:
+      213: 5823726586690613157
+    second: jardin de los nobles_nubes_18
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_0
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 534
+        width: 663
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1733e914d05b03270800000000000000
+      internalID: 8228275587745985393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_1
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 841
+        width: 534
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04c2aa0b5c8eccd60800000000000000
+      internalID: 7911954581153262656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_2
+      rect:
+        serializedVersion: 2
+        x: 2333
+        y: 983
+        width: 281
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152d135c3ee853610800000000000000
+      internalID: 1600342351517176401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_3
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 983
+        width: 281
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dc4a61c885a8930800000000000000
+      internalID: 4146223765646527875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_4
+      rect:
+        serializedVersion: 2
+        x: 3599
+        y: 700
+        width: 636
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405b5897caa8a1c00800000000000000
+      internalID: 872161951227426052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_5
+      rect:
+        serializedVersion: 2
+        x: 4138
+        y: 841
+        width: 534
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0008d5358bac474f0800000000000000
+      internalID: -831817138135269376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_6
+      rect:
+        serializedVersion: 2
+        x: 4394
+        y: 534
+        width: 663
+        height: 546
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb4f909e5b333c10800000000000000
+      internalID: 2032033134213549038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_7
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 716
+        width: 297
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27289638a1245b330800000000000000
+      internalID: 3725956948360266354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_8
+      rect:
+        serializedVersion: 2
+        x: 2314
+        y: 664
+        width: 1132
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 835c9527364f0b250800000000000000
+      internalID: 5958531014968591672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_9
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 541
+        width: 323
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a671f6a6f1bee3220800000000000000
+      internalID: 2467668166007789418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_10
+      rect:
+        serializedVersion: 2
+        x: 2242
+        y: 510
+        width: 148
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd8770478b8bd9d0800000000000000
+      internalID: -2748449734561133072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_11
+      rect:
+        serializedVersion: 2
+        x: 3370
+        y: 510
+        width: 148
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d212063abbbcc8af0800000000000000
+      internalID: -392715060727766739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_12
+      rect:
+        serializedVersion: 2
+        x: 5332
+        y: 541
+        width: 323
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1716f70355c5b79f0800000000000000
+      internalID: -469680215174454927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_13
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 420
+        width: 216
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f6e2a3eb200cfc0800000000000000
+      internalID: -3476775896286859413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_14
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 375
+        width: 214
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fdeb806e80c59250800000000000000
+      internalID: 5950874200377650679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_15
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 341
+        width: 190
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89e2b84397ab3d6b0800000000000000
+      internalID: -5272665708985373032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_16
+      rect:
+        serializedVersion: 2
+        x: 3475
+        y: 341
+        width: 190
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d65a7f2e506cae30800000000000000
+      internalID: 4516090483985503959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_17
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 375
+        width: 214
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35edf8fd58e3c60800000000000000
+      internalID: 7799818799890191284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jardin de los nobles_nubes_18
+      rect:
+        serializedVersion: 2
+        x: 4877
+        y: 420
+        width: 216
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af21b4a97802d050800000000000000
+      internalID: 5823726586690613157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
