@@ -92,7 +92,6 @@ public class PlayerController : MonoBehaviour
         wasGrounded = isGrounded;
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
         animator.SetBool(paramGrounded, isGrounded);
-        Debug.Log("isGrounded: " + isGrounded);
         if (isGrounded)
         {
             coyoteTimeCounter = coyoteTime;
@@ -216,20 +215,20 @@ public class PlayerController : MonoBehaviour
         }
 
     
-        if (collision.gameObject.CompareTag("PlataformaMovil"))
-        {
-            transform.SetParent(collision.transform); // Hace que el jugador sea hijo de la plataforma
-        }
+        // if (collision.gameObject.CompareTag("PlataformaMovil"))
+        // {
+        //     transform.SetParent(collision.transform); // Hace que el jugador sea hijo de la plataforma
+        // }
         
     }
 
-    void OnCollisionExit2D(Collision2D collision)
-    {
-        if (collision.gameObject.CompareTag("PlataformaMovil"))
-        {
-            transform.SetParent(null); // Libera al jugador de la plataforma
-        }
-    }
+    // void OnCollisionExit2D(Collision2D collision)
+    // {
+    //     if (collision.gameObject.CompareTag("PlataformaMovil"))
+    //     {
+    //         transform.SetParent(null); // Libera al jugador de la plataforma
+    //     }
+    // }
 
 
 
