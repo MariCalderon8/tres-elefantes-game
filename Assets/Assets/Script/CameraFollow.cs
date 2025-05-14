@@ -2,9 +2,12 @@ using UnityEngine;
 
 public class CameraFollow2D : MonoBehaviour
 {
-    public Transform target;                     
+    public Transform target;
     public Vector2 offset = new Vector2(0f, 1f);
     public float smoothSpeed = 5f;               // Suavidad del seguimiento
+
+    public Transform minLimitPoint;  // GameObject que marca la esquina inferior izquierda
+    public Transform maxLimitPoint; // GameObject que marca la esquina superior derecha
 
     public Vector2 minLimits; // Límite inferior izquierdo del nivel
     public Vector2 maxLimits; // Límite superior derecho del nivel
@@ -17,6 +20,12 @@ public class CameraFollow2D : MonoBehaviour
         Camera cam = Camera.main;
         camHalfHeight = cam.orthographicSize;
         camHalfWidth = cam.aspect * camHalfHeight;
+
+        if (minLimitPoint != null && maxLimitPoint != null)
+        {
+            minLimits = minLimitPoint.position;
+            maxLimits = maxLimitPoint.position;
+        }
     }
 
     void LateUpdate()
