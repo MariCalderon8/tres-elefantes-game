@@ -231,7 +231,7 @@ public class PlayerExample : MonoBehaviour
             EnemyController enemy = collision.gameObject.GetComponent<EnemyController>();
             if (enemy != null)
             {
-                enemy.TakeDamage(attackDamage);
+                //enemy.TakeDamage(attackDamage);
             }
         }
     

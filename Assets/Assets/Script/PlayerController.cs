@@ -1,4 +1,6 @@
 using UnityEngine;
+using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
@@ -13,13 +15,22 @@ public class PlayerController : MonoBehaviour
     public float lowJumpMultiplier = 2f;    // Multiplicador cuando sueltas el botón de salto
     public float jumpBufferTime = 0.1f;     // Tiempo de buffer para registrar el salto antes de tocar suelo
     public float coyoteTime = 0.15f;        // Tiempo que puedes saltar después de dejar el suelo
-    public int airJumps = 1;  
-    
+    public int airJumps = 1;
+
+    [Header("Configuración de Daño")]
+    public bool canMove = true;
+    [SerializeField] private Vector2 bounceVelocity;
+    [SerializeField] private float lostControlTime;
+    [SerializeField] private SpriteRenderer spriteRenderer;
+    public float flickerDuration = 0.5f;
+    public float flickerSpeed = 0.1f;
 
     [Header("Estadísticas del Personaje")]
     public int maxHealth = 3;
+    [SerializeField] private int currentHealth;
+
     public int attackDamage = 1;
-    
+
     [Header("Detección de Suelo")]
     public Transform groundCheck;
     public float checkRadius = 0.2f;
@@ -28,7 +39,6 @@ public class PlayerController : MonoBehaviour
     //Referencias a componentes
     private Rigidbody2D rb;
     private Animator animator;
-    private int currentHealth;
 
     // Estado del personaje
     private bool wasGrounded;
@@ -37,7 +47,7 @@ public class PlayerController : MonoBehaviour
     private bool isAttacking = false;
     private bool isDead = false;
     private int airJumpsLeft;
-    
+
     // Variables para el buffer de salto y coyote time
     private float jumpBufferCounter;
     private float coyoteTimeCounter;
@@ -55,18 +65,19 @@ public class PlayerController : MonoBehaviour
     private readonly string paramFalling = "isFalling";
     private readonly string paramGrounded = "isGrounded";
 
-//llamar en esta función los dos componentes del player rb y anim
+    //llamar en esta función los dos componentes del player rb y anim
     void Start()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        currentHealth = maxHealth; 
+        currentHealth = maxHealth;
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     void Update()
     {
         moveInput = Input.GetAxisRaw("Horizontal");
-        
+
         if (Input.GetButtonDown("Jump") || Input.GetKeyDown(KeyCode.W))
         {
             jumpBufferCounter = jumpBufferTime;
@@ -75,9 +86,9 @@ public class PlayerController : MonoBehaviour
         {
             jumpBufferCounter -= Time.deltaTime;
         }
-        
+
         jumpHeld = Input.GetButton("Jump") || Input.GetKey(KeyCode.W);
-        
+
         if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)
         {
             isAttacking = true;
@@ -88,7 +99,7 @@ public class PlayerController : MonoBehaviour
     void FixedUpdate()
     {
         if (isDead) return;
-        
+
         wasGrounded = isGrounded;
         isGrounded = Physics2D.OverlapCircle(groundCheck.position, checkRadius, groundLayer);
         animator.SetBool(paramGrounded, isGrounded);
@@ -101,11 +112,19 @@ public class PlayerController : MonoBehaviour
         {
             coyoteTimeCounter -= Time.fixedDeltaTime;
         }
-        
-        Move();
+
+        if (canMove)
+        {
+            Move();
+        }
         Jump();
         ApplyJumpPhysics();
         UpdateAnimations();
+    }
+
+    public void Bounce(Vector2 damagePoint)
+    {
+        rb.linearVelocity = new Vector2(-bounceVelocity.x * damagePoint.x, bounceVelocity.y);
     }
 
     void Move()
@@ -113,11 +132,11 @@ public class PlayerController : MonoBehaviour
         float currentSpeed = Input.GetKey(KeyCode.LeftShift) ? runSpeed : moveSpeed;
 
         rb.linearVelocity = new Vector2(moveInput * currentSpeed, rb.linearVelocity.y);
-        
+
         animator.SetFloat(paramMovement, Mathf.Abs(moveInput));
         bool isRunning = Input.GetKey(KeyCode.LeftShift) && Mathf.Abs(moveInput) > 0.1f;
         animator.SetBool(paramSpeeding, isRunning);
-        
+
         // Mirar en la dirección del movimiento
         if (moveInput < 0)
         {
@@ -136,7 +155,7 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // Anular velocidad vertical antes de saltar
             rb.AddForce(Vector2.up * jumpForce, ForceMode2D.Impulse);
-            
+
             isJumping = true;
             animator.SetBool(paramJump, true);
             // animator.SetBool(paramFalling, false);
@@ -151,17 +170,17 @@ public class PlayerController : MonoBehaviour
         {
             rb.linearVelocity = new Vector2(rb.linearVelocity.x, 0f); // Anular velocidad vertical antes de saltar
             rb.AddForce(Vector2.up * jumpForce * 0.8f, ForceMode2D.Impulse); // Un poco menos de fuerza que el salto normal
-            
+
             // Actualizar estado y animaciones
             isJumping = true;
             animator.SetBool(paramJump, true);
             // animator.SetBool(paramFalling, false);
-            
+
             airJumpsLeft--;
             jumpBufferCounter = 0f;
         }
     }
-    
+
     void ApplyJumpPhysics()
     {
         // Si está cayendo, aplicar mayor gravedad
@@ -175,7 +194,7 @@ public class PlayerController : MonoBehaviour
             rb.linearVelocity += Vector2.up * Physics2D.gravity.y * (lowJumpMultiplier - 1) * Time.fixedDeltaTime;
         }
     }
-    
+
     void UpdateAnimations()
     {
         // Si acaba de tocar el suelo, desactivar animaciones de salto/caída
@@ -210,29 +229,15 @@ public class PlayerController : MonoBehaviour
             EnemyController enemy = collision.gameObject.GetComponent<EnemyController>();
             if (enemy != null)
             {
-                enemy.TakeDamage(attackDamage); // Hace daño al enemigo
+                //enemy.TakeDamage(attackDamage); 
             }
         }
 
-    
-        // if (collision.gameObject.CompareTag("PlataformaMovil"))
-        // {
-        //     transform.SetParent(collision.transform); // Hace que el jugador sea hijo de la plataforma
-        // }
-        
     }
 
-    // void OnCollisionExit2D(Collision2D collision)
-    // {
-    //     if (collision.gameObject.CompareTag("PlataformaMovil"))
-    //     {
-    //         transform.SetParent(null); // Libera al jugador de la plataforma
-    //     }
-    // }
 
 
-
-//llamar la función de atacar y final del ataque
+    //llamar la función de atacar y final del ataque
     public void EndAttack()
     {
         isAttacking = false;
@@ -240,54 +245,74 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    public void TakeDamage(int damage)
+    public void TakeDamage(int damage, Vector2 damagePoint)
     {
         if (isDead) return;
 
-        currentHealth -= damage; // Reduce la vida del player
+        currentHealth -= damage;
+
         if (currentHealth <= 0)
         {
-            Die(); // Mata al player si su vida llega a 0
+            StartCoroutine(Die());
         }
+        else
+        {
+            StartCoroutine(FlickerWhite());
+            StartCoroutine(LostControl());
+            Bounce(damagePoint);
+        }
+
     }
 
-    void Die()
+    public void TakeDamageOnTrigger(int damage)
+    {
+        if (isDead) return;
+
+        currentHealth -= damage;
+
+        if (currentHealth <= 0)
+        {
+            StartCoroutine(Die());
+        }
+        else
+        {
+            StartCoroutine(FlickerWhite());
+            StartCoroutine(LostControl());
+        }
+
+    }
+
+    private IEnumerator FlickerWhite()
+    {
+        float elapsed = 0f;
+        Color originalColor = spriteRenderer.color;
+        Color flickerColor = new Color(1f, 1f, 1f, 0.7f); // Blanco translúcido
+
+        while (elapsed < flickerDuration)
+        {
+            spriteRenderer.color = flickerColor;
+            yield return new WaitForSeconds(flickerSpeed);
+            spriteRenderer.color = originalColor;
+            yield return new WaitForSeconds(flickerSpeed);
+            elapsed += flickerSpeed * 2;
+        }
+
+        spriteRenderer.color = originalColor;
+    }
+
+    private IEnumerator LostControl()
+    {
+        canMove = false;
+        yield return new WaitForSeconds(lostControlTime);
+        canMove = true;
+    }
+
+    public IEnumerator Die()
     {
         isDead = true;
-        // Aquí puedes añadir lógica para la animación de muerte o reiniciar el nivel
-        Debug.Log("Player ha muerto");
+        animator.SetBool("isDead", isDead);
+        yield return new WaitForSeconds(2);
+        SceneManager.LoadScene("Game Over");
     }
 
-
-
-   
-   
 }
-
-//llamar las fisicas del personaje.
-    // void FixedUpdate()
-    // {
-
-
-    //     // Animaciones
-    //     animator.SetFloat("Speed", Mathf.Abs(moveInput));
-
-    //     if (Input.GetButtonDown("Jump") && !isJumping)
-    //     {
-    //         rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpForce);
-    //         isJumping = true;
-    //         animator.SetBool("IsJumping", true);
-    //     }
-
-    //     if (Input.GetKeyDown(KeyCode.Z) && !isAttacking)
-    //     {
-    //         isAttacking = true;
-    //         animator.SetBool("IsAttacking", true);
-    //     }
-
-    //     if (Input.GetKeyDown(KeyCode.X))
-    //     {
-    //         isDead = true;
-    //         animator.SetBool("IsDead", true);
-    //     }
-    // }

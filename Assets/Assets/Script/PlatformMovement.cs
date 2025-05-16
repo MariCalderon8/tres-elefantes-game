@@ -44,11 +44,11 @@ public class PlatformMovement : MonoBehaviour
             collision.transform.SetParent(this.transform); // Asigna al jugador como hijo de la plataforma
         }
     }
-        void OnCollisionExit2D(Collision2D collision)
+        void OnCollisionExit2D(Collision2D other)
     {
-        if (collision.gameObject.CompareTag("Player"))
+        if (other.gameObject.CompareTag("Player"))
         {
-            collision.transform.SetParent(null); // Libera al jugador de la plataforma
+            other.transform.SetParent(null); // Libera al jugador de la plataforma
         }
     }
 

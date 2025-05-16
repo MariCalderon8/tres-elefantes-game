@@ -3161,6 +3161,7 @@ GameObject:
   - component: {fileID: 536106490}
   - component: {fileID: 536106489}
   - component: {fileID: 536106488}
+  - component: {fileID: 536106491}
   m_Layer: 0
   m_Name: Chuzos02
   m_TagString: Untagged
@@ -3198,7 +3199,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -3486,6 +3487,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1354003503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &536106491
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 536106487}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a182868318cbf441a96d3cc3f8bacf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 1
 --- !u!1 &551728398
 GameObject:
   m_ObjectHideFlags: 0
@@ -6709,6 +6723,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 7409706327181197049, guid: 03a9ac48658eb8842b165c375c9df35a, type: 3}
+      propertyPath: maxHealth
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 7409706327181197049, guid: 03a9ac48658eb8842b165c375c9df35a, type: 3}
+      propertyPath: lostControlTime
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7409706327181197049, guid: 03a9ac48658eb8842b165c375c9df35a, type: 3}
+      propertyPath: bounceVelocity.x
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 7409706327181197049, guid: 03a9ac48658eb8842b165c375c9df35a, type: 3}
+      propertyPath: bounceVelocity.y
+      value: 10
+      objectReference: {fileID: 0}
     - target: {fileID: 8598725114832563395, guid: 03a9ac48658eb8842b165c375c9df35a, type: 3}
       propertyPath: m_LocalScale.x
       value: 0.9554281
@@ -6970,6 +7000,7 @@ GameObject:
   - component: {fileID: 1627107576}
   - component: {fileID: 1627107578}
   - component: {fileID: 1627107577}
+  - component: {fileID: 1627107579}
   m_Layer: 0
   m_Name: Chuzos02 (1)
   m_TagString: Untagged
@@ -7002,7 +7033,7 @@ PolygonCollider2D:
   m_Enabled: 1
   serializedVersion: 3
   m_Density: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 009cf9672bd14574e98bc3519ac8643f, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -7022,7 +7053,7 @@ PolygonCollider2D:
   m_CallbackLayers:
     serializedVersion: 2
     m_Bits: 4294967295
-  m_IsTrigger: 1
+  m_IsTrigger: 0
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
@@ -7295,6 +7326,19 @@ SpriteRenderer:
   m_WasSpriteAssigned: 1
   m_MaskInteraction: 0
   m_SpriteSortPoint: 0
+--- !u!114 &1627107579
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1627107575}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a182868318cbf441a96d3cc3f8bacf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 1
 --- !u!1 &1634429932
 GameObject:
   m_ObjectHideFlags: 0
@@ -7306,6 +7350,7 @@ GameObject:
   - component: {fileID: 1634429935}
   - component: {fileID: 1634429934}
   - component: {fileID: 1634429933}
+  - component: {fileID: 1634429936}
   m_Layer: 0
   m_Name: Piso Chuzos
   m_TagString: Untagged
@@ -8138,6 +8183,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1354003503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1634429936
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1634429932}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a182868318cbf441a96d3cc3f8bacf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 10
 --- !u!1 &1634843085
 GameObject:
   m_ObjectHideFlags: 0
@@ -8410,6 +8468,7 @@ GameObject:
   - component: {fileID: 1675091039}
   - component: {fileID: 1675091038}
   - component: {fileID: 1675091037}
+  - component: {fileID: 1675091040}
   m_Layer: 0
   m_Name: Piso Chuzos (1)
   m_TagString: Untagged
@@ -9242,6 +9301,19 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1354003503}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1675091040
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1675091036}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a182868318cbf441a96d3cc3f8bacf1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  damage: 10
 --- !u!1 &1698985650
 GameObject:
   m_ObjectHideFlags: 0
