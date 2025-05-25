@@ -266,10 +266,18 @@ MonoBehaviour:
   jumpBufferTime: 0.1
   coyoteTime: 0.15
   airJumps: 1
+  canMove: 1
+  bounceVelocity: {x: 0, y: 0}
+  lostControlTime: 0
+  spriteRenderer: {fileID: 0}
+  flickerDuration: 0.5
+  flickerSpeed: 0.1
   maxHealth: 3
+  currentHealth: 0
   attackDamage: 1
   groundCheck: {fileID: 6906702155517610672}
   checkRadius: 0.2
   groundLayer:
     serializedVersion: 2
     m_Bits: 8
+  gameOverLoader: {fileID: 0}

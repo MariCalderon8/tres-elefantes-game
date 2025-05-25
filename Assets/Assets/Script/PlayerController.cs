@@ -39,6 +39,8 @@ public class PlayerController : MonoBehaviour
     //Referencias a componentes
     private Rigidbody2D rb;
     private Animator animator;
+    public LoadGameOverScene gameOverLoader;
+
 
     // Estado del personaje
     private bool wasGrounded;
@@ -72,6 +74,10 @@ public class PlayerController : MonoBehaviour
         animator = GetComponent<Animator>();
         currentHealth = maxHealth;
         spriteRenderer = GetComponent<SpriteRenderer>();
+        if (gameOverLoader == null)
+        {
+            gameOverLoader = FindObjectOfType<LoadGameOverScene>();
+        }
     }
 
     void Update()
@@ -253,7 +259,7 @@ public class PlayerController : MonoBehaviour
 
         if (currentHealth <= 0)
         {
-            StartCoroutine(Die());
+            Die();
         }
         else
         {
@@ -272,7 +278,7 @@ public class PlayerController : MonoBehaviour
 
         if (currentHealth <= 0)
         {
-            StartCoroutine(Die());
+            Die();
         }
         else
         {
@@ -307,12 +313,16 @@ public class PlayerController : MonoBehaviour
         canMove = true;
     }
 
-    public IEnumerator Die()
+    public void Die()
     {
         isDead = true;
         animator.SetBool("isDead", isDead);
-        yield return new WaitForSeconds(2);
-        SceneManager.LoadScene("Game Over");
+        if (rb != null)
+        {
+            rb.linearVelocity = Vector2.zero;
+            rb.bodyType = RigidbodyType2D.Static;
+        }
+        gameOverLoader.TriggerGameOver(SceneManager.GetActiveScene().name);
     }
 
 }
