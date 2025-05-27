@@ -8,7 +8,6 @@ public class DamaginObject : MonoBehaviour
     {
         if (other.gameObject.CompareTag("Player"))
         {
-            Debug.Log(damage);
             other.gameObject.GetComponent<PlayerController>().TakeDamage(damage, other.GetContact(0).normal);
         }
     }
